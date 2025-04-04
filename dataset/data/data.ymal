@@ -1,0 +1,5 @@
+train: /Users/jiwan/Desktop/yolo_fl/dataset/images/Train  # 학습 이미지 경로
+val: /Users/jiwan/Desktop/yolo_fl/dataset/images/Val    # 검증 이미지 경로
+
+nc: 1  # 클래스 개수 (소파 하나만 인식할 예정)
+names: ['sofa']  # 클래스 이름
