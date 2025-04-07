@@ -1,0 +1,4 @@
+train: /Users/jiwan/Desktop/yolo_fl/dataset/images/Train
+val: /Users/jiwan/Desktop/yolo_fl/dataset/images/Val
+nc: 1  # 클래스 수 (여기서는 'sofa' 하나만 사용)
+names: ['sofa']  # 클래스 이름
